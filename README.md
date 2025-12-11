@@ -90,3 +90,16 @@ Adding firewall auto-block rules for detected threats
 This project provides a practical demonstration of how Python can automate cybersecurity monitoring tasks. By combining port scanning with WhatsApp notifications, the tool delivers an immediate and accessible alert system that can be used in home labs, student projects, or small-scale security environments. The project reinforces knowledge of networking fundamentals and real-world automation techniques.
 
 # Screenshots
+code running 
+
+
+<img width="960" height="504" alt="Image" src="https://github.com/user-attachments/assets/04ea09d9-6f03-419b-923f-e629bb687f3a" />
+[automated_nmap_scan-send_alert_whatsapp.py](https://github.com/user-attachments/files/24095684/automated_nmap_scan-send_alert_whatsapp.py)
+
+sending message alert to whatsapp 
+
+<img width="999" height="504" alt="Image" src="https://github.com/user-attachments/assets/1abdf4ad-2db8-4e28-bade-4195672643c3" />
+
+scan report for open and closed ports
+
+<img width="960" height="504" alt="Image" src="https://github.com/user-attachments/assets/79b5898d-e673-4180-bf70-1f4f5aa9844c" />
